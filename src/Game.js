@@ -3,8 +3,8 @@ import Clock from './Clock';
 function Game() {
     return (
         <div>
-            Hello Wolrd
-            <Clock date={new Date()} />
+            Hello World
+            <Clock date={new Date()}/>
         </div>
     );
 }
